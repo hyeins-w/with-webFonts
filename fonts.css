@@ -5,3 +5,11 @@
     font-style: normal;
     font-display: swap;
 }
+
+/* Pretendard */
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/hyeins-w/with-webFonts@main/Pretendard/Pretendard-Medium.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
